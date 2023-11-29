@@ -1,0 +1,62 @@
+{
+    "li": {
+        "colors": {
+            "primary": "",
+            "secondary": "",
+            "font": "",
+            "background": ""
+        },
+        "projetos": [
+            {
+                "title": "",
+                "description": "",
+                "image": ""
+            }
+        ]
+    },
+    "dani": {
+        "colors": {
+            "primary": "",
+            "secondary": "",
+            "font": "",
+            "background": ""
+        },
+        "projetos": [
+            {
+                "title": "",
+                "description": "",
+                "image": ""
+            }
+        ]
+    },
+    "fe": {
+        "colors": {
+            "primary": "",
+            "secondary": "",
+            "font": "",
+            "background": ""
+        },
+        "projetos": [
+            {
+                "title": "",
+                "description": "",
+                "image": ""
+            }
+        ]
+    },
+    "lu": {
+        "colors": {
+            "primary": "",
+            "secondary": "",
+            "font": "",
+            "background": ""
+        },
+        "projetos": [
+            {
+                "title": "",
+                "description": "",
+                "image": ""
+            }
+        ]
+    }
+}

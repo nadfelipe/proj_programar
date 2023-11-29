@@ -1,6 +1,6 @@
 # Projeto Programar | quibe/cao
 
-Esse projeto tem como objetivo a conclusão da matéria "Projeto Programar" do Segundo Semestre dos cursos Bacharelado em Design e Tecnologia em Design Gráfico.
+Esse projeto tem como objetivo a conclusão da matéria "Projeto Programar" do Segundo Semestre dos cursos: Bacharelado em Design e Tecnologia em Design Gráfico do SENAC SP.
 
 Grupo formado por:
 - Aline Teixeira
