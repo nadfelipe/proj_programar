@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;700&display=swap');
+@font-face {
+    font-family: "Clash Display";
+    src: url("../assets/fonts/ClashDisplay-Variable.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: 600;
+}
+
+p {
+    color: inherit;
+}
+
+html {
+    font-size: 100%;
+}
+
+.wrapper {
+    max-width: 1440px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: clamp(2rem, 15vw, 200px);
+}
