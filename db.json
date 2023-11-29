@@ -1,62 +1,23 @@
 {
-    "li": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
+  "li": {
+    "colors": {
+      "primary": "",
+      "secondary": "",
+      "font": "",
+      "background": ""
     },
-    "dani": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
+    "projetos": [
+      {
+        "title": "",
+        "description": "",
+        "imagens": ["", ""],
+        "especificacoes": [
+          {
+            "titulo": "",
+            "conteudo": ""
+          }
         ]
-    },
-    "fe": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
-    },
-    "lu": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
-    }
+      }
+    ]
+  }
 }
