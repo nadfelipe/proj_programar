@@ -3,6 +3,17 @@ module.exports = {
   content: ["*.{html,js}", "./pages/**/*.{html,js}"],
   theme: {
     extend: {
+      maxWidth: {
+        'icon': '200px'
+      },
+      zIndex: {
+        '0': 0,
+        '25': 25,
+        '50': 50,
+        '75': 75,
+        '100': 100,
+        'auto': "auto",
+      },
       fontSize: {
         sm: "0.750rem",
         base: "1rem",
