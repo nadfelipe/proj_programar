@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quibecao | projetos</title>
+
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/projetos.css">
+</head>
+
+<body class="font-body">
+    <header class="fixed w-screen mx-auto border-solid border-b-2 border-black z-100">
+        <nav class="wrapper">
+            <ul class="flex justify-between py-3">
+                <li><a href="../index.html">quibe/cão</a></li>
+                <li><a href="./projetos.html">projetos</a></li>
+                <li>sobre</li>
+                <li><a href="./pages/login.html">login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="pt-20">
+        <section id="secao_header-projetos" class="secao_select border-solid border-b-2 border-black">
+            <div class="wrapper">
+                <div class="py-10 my-10 relative">
+                    <div class="w-full grid grid-cols-1 items-center gap-x-8 gap-y-16 lg:grid-cols-2">
+                        <div class="self-start">
+                        <h1 class="font-heading font-bold text-3xl sm:my-3">página de projetos</h1>
+                        <p class="mt-4">aqui você pode encontrar uma lista com alguns de nossos projetos selecionados randomicamente, ou se desejar, pode ver o projeto de cada um de nós entrando nas páginas individuais*!</p>
+                        <p class="text-gray-500 text-sm">*é só clicar no rosto de quem você desejar</p>
+                    
+                        </div>
+                        <ul class="grid grid-cols-2 grid-rows-2 gap-6 lg:gap-8 self-start">
+                            <li>
+                                <a href="./projetos.html?li">
+                                    <img class="max-w-icon sm:max-w-sm" src="../assets/imgs/icons/icon-dani.svg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="./projetos.html?dani">
+                                    <img class="max-w-icon sm:max-w-sm" src="../assets/imgs/icons/icon-dani.svg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="./projetos.html?fe">
+                                    <img class="max-w-icon sm:max-w-sm" src="../assets/imgs/icons/icon-dani.svg" alt="">
+                                </a>
+                            </li>
+                            <li>
+                                <a href="./projetos.html?lu">
+                                    <img class="max-w-icon sm:max-w-sm" src="../assets/imgs/icons/icon-dani.svg" alt="">
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="secao_projetos border-solid border-b-2 border-black">
+            <div id="container_box-projetos" class="pt-10 pb-20 wrapper">
+                <h2 id="titulo_projetos" class="text-xl font-heading">projetos randomicamente selecionados</h2>
+                <ul id="lista_box-projetos">
+                </ul>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="wrapper py-5">
+            <p class="">&copy; todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="../js/projetos.js"></script>
+</body>
+
+</html>

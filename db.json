@@ -1,62 +1,98 @@
 {
-    "li": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
-    },
-    "dani": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
-    },
-    "fe": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
-    },
-    "lu": {
-        "colors": {
-            "primary": "",
-            "secondary": "",
-            "font": "",
-            "background": ""
-        },
-        "projetos": [
-            {
-                "title": "",
-                "description": "",
-                "image": ""
-            }
-        ]
-    }
+  "li": {
+    "projetos": [
+      {
+        "title": "Technical Specifications",
+        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "imgs": [
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+        ],
+        "specs": [
+          {
+            "title": "Origin",
+            "description": "Designed by Good Goods, Inc."
+          },
+          {
+            "title": "Material",
+            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+          }
+        ],
+        "link": "teste",
+        "icon": "../assets/imgs/icons/icon-dani.svg"
+      },
+      {
+        "title": "aaaaaaa2 Specifications",
+        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "imgs": [
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+        ],
+        "specs": [
+          {
+            "title": "Origin",
+            "description": "Designed by Good Goods, Inc."
+          },
+          {
+            "title": "Material",
+            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+          }
+        ],
+        "link": "teste",
+        "icon": "../assets/imgs/icons/icon-dani.svg"
+      }
+    ]
+  },
+  "dani": {
+    "projetos": [
+      {
+        "title": "asdasdasdasd Specifications",
+        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "imgs": [
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+        ],
+        "specs": [
+          {
+            "title": "Origin",
+            "description": "Designed by Good Goods, Inc."
+          },
+          {
+            "title": "Material",
+            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+          }
+        ],
+        "link": "teste",
+        "icon": "../assets/imgs/icons/icon-dani.svg"
+      },
+      {
+        "title": "asdasdasdasdas Specifications",
+        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "imgs": [
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
+          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+        ],
+        "specs": [
+          {
+            "title": "Origin",
+            "description": "Designed by Good Goods, Inc."
+          },
+          {
+            "title": "Material",
+            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+          }
+        ],
+        "link": "teste",
+        "icon": "../assets/imgs/icons/icon-dani.svg"
+      }
+    ]
+  }
 }
