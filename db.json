@@ -2,47 +2,63 @@
   "li": {
     "projetos": [
       {
-        "title": "Technical Specifications",
-        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "title": "Illustração – 'A viagem de chihiro'",
+        "description": "Ilustração feita de vetores no Illustrator a partir de um desenho feito no papel.",
         "imgs": [
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+          "../assets/imgs/projetos/li/li_prj1-1.jpg",
+          "../assets/imgs/projetos/li/li_prj1-2.jpg"
         ],
         "specs": [
           {
-            "title": "Origin",
-            "description": "Designed by Good Goods, Inc."
-          },
-          {
-            "title": "Material",
-            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+            "title": "Ferramenta",
+            "description": "Illustrator"
           }
         ],
-        "link": "teste",
         "icon": "../assets/imgs/icons/icon-li.svg"
       },
       {
-        "title": "aaaaaaa2 Specifications",
-        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "title": "Remake – 'Coraline'",
+        "description": "Uma versão alternativa para a capa do livro 'Coraline' utilizando, principalmente, vetor.",
         "imgs": [
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+          "../assets/imgs/projetos/li/li_prj2-1.jpg",
+          "../assets/imgs/projetos/li/li_prj2-2.jpg",
+          "../assets/imgs/projetos/li/li_prj2-3.jpg"
         ],
         "specs": [
           {
-            "title": "Origin",
-            "description": "Designed by Good Goods, Inc."
-          },
-          {
-            "title": "Material",
-            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+            "title": "Ferramenta",
+            "description": "Illustrator e Photoshop"
           }
         ],
-        "link": "teste",
+        "icon": "../assets/imgs/icons/icon-li.svg"
+      },
+      {
+        "title": "Cartaz - The Jumping Mice",
+        "description": "Um cartaz de circo desenvolvido pensando no circo dos camundongos saltadores de 'Coraline' utilizando, principalmente, vetor.",
+        "imgs": [
+          "../assets/imgs/projetos/li/li_prj3-1.jpg"
+        ],
+        "specs": [
+          {
+            "title": "Ferramenta",
+            "description": "Illustrator e Photoshop"
+          }
+        ],
+        "icon": "../assets/imgs/icons/icon-li.svg"
+      },
+      {
+        "title": "Cartão postal – Colagem",
+        "description": "Cartão postal feito a partir de colagens de fotos no Photoshop.",
+        "imgs": [
+          "../assets/imgs/projetos/li/li_prj4-1.png",
+          "../assets/imgs/projetos/li/li_prj4-2.png"
+        ],
+        "specs": [
+          {
+            "title": "Ferramenta",
+            "description": "Photoshop"
+          }
+        ],
         "icon": "../assets/imgs/icons/icon-li.svg"
       }
     ]
@@ -50,47 +66,33 @@
   "dani": {
     "projetos": [
       {
-        "title": "asdasdasdasd Specifications",
-        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "title": "Cartão Postal - 'Manda um zap'",
+        "description": "Atividade de criação de um Cartão Postal, com o objetivo de transmitir humor comparando enviar um “zap” e uma carta.",
         "imgs": [
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+          "../assets/imgs/projetos/dani/dani_prj1-1.jpg",
+          "../assets/imgs/projetos/dani/dani_prj1-2.jpg"
         ],
         "specs": [
           {
-            "title": "Origin",
-            "description": "Designed by Good Goods, Inc."
-          },
-          {
-            "title": "Material",
-            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+            "title": "Ferramenta e Processo",
+            "description": "Photoshop, Edição e Manipulação de texto e imagem"
           }
         ],
-        "link": "teste",
         "icon": "../assets/imgs/icons/icon-dani.svg"
       },
       {
-        "title": "asdasdasdasdas Specifications",
-        "description": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coated steel divider separates active cards from new ones, or can be used to archive important task lists.",
+        "title": "Publicação - 'Como melhorar o seu tempo no transporte público?'",
+        "description": "Objetivo principal de causar uma reflexão sobre o hábito que temos de sempre buscar o melhor caminho no dia-a-dia.",
         "imgs": [
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-01.jpg", 
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-02.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-03.jpg",
-          "https://tailwindui.com/img/ecommerce-images/product-feature-03-detail-04.jpg"
+          "../assets/imgs/projetos/dani/dani_prj2-1.png",
+          "../assets/imgs/projetos/dani/dani_prj2-2.png"
         ],
         "specs": [
           {
-            "title": "Origin",
-            "description": "Designed by Good Goods, Inc."
-          },
-          {
-            "title": "Material",
-            "description": "Solid walnut base with rare earth magnets and powder coated steel card cover"
+            "title": "Ferramenta",
+            "description": "InDesign, Illustrator e Photoshop"
           }
         ],
-        "link": "teste",
         "icon": "../assets/imgs/icons/icon-dani.svg"
       }
     ]
@@ -126,6 +128,24 @@
           }
         ],
         "icon": "../assets/imgs/icons/icon-fe.svg"
+      }
+    ]
+  },
+  "lu": {
+    "projetos": [
+      {
+        "title": "Tyler the capa",
+        "description": "Para explorar a ferramenta de vetor, fiz uma capa fictícia para um livro de Tyler, The Creator.",
+        "imgs": [
+          "../assets/imgs/projetos/lu/lu_prj1-1.png"
+        ],
+        "specs": [
+          {
+            "title": "Ferramenta",
+            "description": "Adobe Illustrator"
+          }
+        ],
+        "icon": "../assets/imgs/icons/icon-lu.svg"
       }
     ]
   }
