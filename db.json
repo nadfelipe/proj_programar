@@ -21,7 +21,7 @@
           }
         ],
         "link": "teste",
-        "icon": "../assets/imgs/icons/icon-dani.svg"
+        "icon": "../assets/imgs/icons/icon-li.svg"
       },
       {
         "title": "aaaaaaa2 Specifications",
@@ -43,7 +43,7 @@
           }
         ],
         "link": "teste",
-        "icon": "../assets/imgs/icons/icon-dani.svg"
+        "icon": "../assets/imgs/icons/icon-li.svg"
       }
     ]
   },
@@ -92,6 +92,40 @@
         ],
         "link": "teste",
         "icon": "../assets/imgs/icons/icon-dani.svg"
+      }
+    ]
+  },
+  "fe": {
+    "projetos": [
+      {
+        "title": "Remake - 'Apartment' de Teddy Wayne",
+        "description": "Para explorar a ferramenta de vetor, fiz uma segunda versão da capa de 'Apartment', utilizando da mesma paleta de cores da capa original.",
+        "imgs": [
+          "../assets/imgs/projetos/fe/fe_prj1-1.jpeg",
+          "../assets/imgs/projetos/fe/fe_prj1-2.jpeg" 
+        ],
+        "specs": [
+          {
+            "title": "Ferramenta",
+            "description": "Adobe Illustrator"
+          }
+        ],
+        "icon": "../assets/imgs/icons/icon-fe.svg"
+      },
+      {
+        "title": "Cartão postal - Comparison Destroys Personality",
+        "description": "Neste projeto, desenvolvi um cartão postal utilizando de ferramentas de corte no Adobe Photoshop, simulando ao máximo a textura e estética do papel e elementos orgânicos.",
+        "imgs": [
+          "../assets/imgs/projetos/fe/fe_prj2-1.jpeg",
+          "../assets/imgs/projetos/fe/fe_prj2-2.jpeg" 
+        ],
+        "specs": [
+          {
+            "title": "Ferramenta",
+            "description": "Adobe Photoshop"
+          }
+        ],
+        "icon": "../assets/imgs/icons/icon-fe.svg"
       }
     ]
   }
