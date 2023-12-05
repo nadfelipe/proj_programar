@@ -1,4 +1,5 @@
 #canvas-apresentacao {
-    width: 90vw !important;
+    margin: 2rem auto;
+    width: 50vw !important;
     height: 50vh !important;
 }
